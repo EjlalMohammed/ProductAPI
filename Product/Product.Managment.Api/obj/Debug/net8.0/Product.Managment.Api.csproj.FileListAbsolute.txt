@@ -30,3 +30,4 @@ C:\Users\new\Desktop\ProductAPI\Product\Product.Managment.Api\obj\Debug\net8.0\r
 C:\Users\new\Desktop\ProductAPI\Product\Product.Managment.Api\obj\Debug\net8.0\Product.Managment.Api.pdb
 C:\Users\new\Desktop\ProductAPI\Product\Product.Managment.Api\obj\Debug\net8.0\Product.Managment.Api.genruntimeconfig.cache
 C:\Users\new\Desktop\ProductAPI\Product\Product.Managment.Api\obj\Debug\net8.0\ref\Product.Managment.Api.dll
+C:\Users\new\Desktop\ProductAPI\Product\Product.Managment.Api\obj\Debug\net8.0\Product.Managment.Api.sourcelink.json
