@@ -68,3 +68,4 @@ ClientBin/
 *.publishsettings
 Node_modules/
 orleans.codegen.cs
+*.vsidx
