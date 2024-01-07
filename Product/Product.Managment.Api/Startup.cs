@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.OpenApi.Models;
+using System.ComponentModel;
 
 namespace Product.Managment.Api
 {
@@ -12,6 +13,10 @@ namespace Product.Managment.Api
         //}
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Product.MAnagment.Api", Version = "v1" });
+            });
         }
     }
 }
