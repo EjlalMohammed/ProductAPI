@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\new\\Desktop\\ProductAPI\\Product\\Product.Managment.Api\\Product.Managment.Api.csproj",
+      "projectUniqueName": "E:\\Program\\Repo2\\ProductAPI\\Product\\Product.Managment.Api\\Product.Managment.Api.csproj",
       "projectName": "Product.Managment.Api",
-      "projectPath": "C:\\Users\\new\\Desktop\\ProductAPI\\Product\\Product.Managment.Api\\Product.Managment.Api.csproj",
+      "projectPath": "E:\\Program\\Repo2\\ProductAPI\\Product\\Product.Managment.Api\\Product.Managment.Api.csproj",
       "packagesPath": "C:\\Users\\new\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\new\\Desktop\\ProductAPI\\Product\\Product.Managment.Api\\obj\\",
+      "outputPath": "E:\\Program\\Repo2\\ProductAPI\\Product\\Product.Managment.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\new\\AppData\\Roaming\\NuGet\\NuGet.Config",
