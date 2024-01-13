@@ -17,7 +17,7 @@ namespace Product.Managment.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ProductDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("YourConnectionString")));
+            options.UseSqlServer(Configuration.GetConnectionString("ProductConection")));
 
             services.AddSwaggerGen(c =>
             {
