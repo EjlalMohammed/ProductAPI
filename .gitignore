@@ -142,3 +142,4 @@ Debug/
 # Blazor WebAssembly
 /_framework/
 /_bin/
+.dtbcache.v2/
